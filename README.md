@@ -32,7 +32,7 @@ Sigue estos pasos para poner en marcha tu propia instancia del bot.
 
 Primero, clona este repositorio en tu máquina local.
 ```bash
-# git clone [[URL_DE_TU_REPO]](https://github.com/GrekAG/dnd-telegram-bot.git)
+# git clone https://github.com/GrekAG/dnd-telegram-bot.git
 
 # cd dnd-telegram-bot
 ```
